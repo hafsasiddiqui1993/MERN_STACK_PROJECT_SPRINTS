@@ -1,1 +1,7 @@
+About Project Overview
+1- Exercise Tracking App, where Member can create, modify, delete excercise activities
+2- Member can register himself to see thir dashboard, where they edit profile, and access activities
+3-Non registered members has no rights to perform activities
+4- Non registered members restricted to dashboard and activities only registered users allow to do changes and access accordingly
+5-Non registered members only access homepage.
 
